@@ -1,54 +1,139 @@
-# Data Jobs Dashboard w/ Power BI
+# 📊 Power BI Dashboard Portfolio
 
-![Data Jobs Dashboard Page 1](/images/Project1_Page1.png)  
+Welcome to my Power BI Dashboard Portfolio!
 
-> <a href="https://app.powerbi.com/view?r=eyJrIjoiYmUwY2JjMjUtZjJjYy00MmRmLThhMmEtYmZkNjVhZDYwZGU2IiwidCI6IjBhM2I1ZmRlLWY0MzMtNGNjZC1iMGYwLThkMTUxZjVlMTRiZSJ9">📊 View interactive dashboard here on the Power BI Service</a>
+This repository showcases my hands-on experience in **Business Intelligence, Data Analytics, Data Visualization, and Dashboard Development** using Microsoft Power BI.
 
+Through these projects, I demonstrate how raw data can be transformed into meaningful, interactive dashboards that uncover trends, track key performance indicators (KPIs), and support data-driven decision-making.
 
-## Introduction
-
-This dashboard was created for **Job Seekers, Job Transitioners, and Job Swappers** to solve a common problem: information about the data job market is scattered and hard to grasp. Using a real-world dataset of 2024 data science job postings (including titles, salaries, and locations), this project provides a single, easy-to-use interface to explore market trends and compensation.
-
-### Dashboard File
-You can find the file for the dashboard here: [`Data_Jobs_Dashboard.pbix`](Data_Jobs_Dashboard.pbix).  
-
-## Skills Showcased
-
-This project was a journey through key Power BI features. Here's a look at what we mastered:
-
--   **⚙️ Data Transformation (ETL) with Power Query:** Cleaned, shaped, and prepared the raw data for analysis by handling blanks, changing data types, and creating new columns.
--   **🧮 Implicit Measures:** Formulated measures to derive key insights and KPIs like `Median Yearly Salary` and `Job Count`.
--   **📊 Core Charts:** Utilized **Column, Bar, Line,** and **Area Charts** to compare job counts and track trends over time.
--   **🗺️ Geospatial Analysis:** Leveraged **Map Charts** to visualize the global distribution of jobs.
--   **🔢 KPI Indicators & Tables:** Used **Cards** to display key metrics and **Tables** to provide granular, sortable data.
--   **🎨 Dashboard Design:** Designed an intuitive and visually appealing layout, exploring both common and uncommon chart types to best tell the data story.
--   **🖱️ Interactive Reporting:**
-    -   **Slicers:** To dynamically filter the report by Job Title.
-    -   **Buttons & Bookmarks:** To create a seamless navigation experience.
-    -   **Drill-Through:** To navigate from a high-level summary to a contextual, detailed view.
----
-
-## Dashboard Overview
-
-*This report is split into two distinct pages to provide both a high-level summary and a detailed analysis.*
-
-### Page 1: High-Level Market View
-
-![Data Jobs Dashboard Page 1](/images/Project1_Page1.png)
-
-This is your mission control for the data job market. It showcases key KPIs like total job count, median salaries, and top job titles to give you a quick understanding of what's happening in the job market at a glance.
-
-### Page 2: Job Title Drill Through
-
-![Data Jobs Dashboard Page 2](/images/Project2_Page2.png) 
-
-This is the deep-dive page. From the main dashboard, you can drill through to this view to get specific details for a single job title, including salary ranges, work-from-home stats, top hiring platforms, and a global map of job locations.
+The featured dashboards also highlight my progression from foundational Power BI reporting techniques to more advanced data modeling, DAX calculations, interactive analytics, and dashboard optimization.
 
 ---
 
-## Conclusion
+## 🚀 Featured Dashboards
 
-This dashboard showcases how Power BI can transform raw job posting data into a powerful tool for career analysis. It allows users to slice, filter, and drill through data to make informed decisions about their career paths.
+### 📈 Project 1: Data Jobs Dashboard — Comprehensive Exploration
+
+![Data Jobs Dashboard](/images/Project1_Page1.png)
+
+**[🌐 View Interactive Dashboard on Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiYmUwY2JjMjUtZjJjYy00MmRmLThhMmEtYmZkNjVhZDYwZGU2IiwidCI6IjBhM2I1ZmRlLWY0MzMtNGNjZC1iMGYwLThkMTUxZjVlMTRiZSJ9)**
+
+**Project Overview**
+
+An interactive Power BI dashboard designed to explore the data job market through visual analysis of job-related information.
+
+The project focuses on building a solid foundation in data preparation, modeling, visualization, and interactive reporting.
+
+**Key Power BI Skills Demonstrated:**
+
+- 🎨 Dashboard Layout, Design, and Visual Storytelling
+- ⚙️ Power Query for Data Cleaning and Transformation
+- 🔗 Relational Data Modeling and Table Relationships
+- 🧮 Explicit DAX Measures and Standard Aggregations
+- 📊 Bar, Line, Area, and Column Charts
+- 🗺️ Geospatial Data Visualization
+- 🔢 KPI Cards and Detailed Data Tables
+- 🎛️ Interactive Slicers and Filtering
+- 🔘 Buttons, Bookmarks, and Page Navigation
+- ➡️ Drill-Through Functionality
+
+**[📂 Explore Project 1 — Full Documentation](/Data_Jobs_v1/README.md)**
+
+---
+
+### 📊 Project 2: Data Jobs Dashboard 2.0 — Advanced Analytics
+
+![Data Jobs Dashboard 2.0](/images/Project2_Page1.png)
+
+**[🌐 View Interactive Dashboard on Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiY2Y1OWZmNGEtZDQzYS00YTQ2LWJhMzAtODAwMmI1ZDI4ZjE5IiwidCI6IjBhM2I1ZmRlLWY0MzMtNGNjZC1iMGYwLThkMTUxZjVlMTRiZSJ9)**
+
+**Project Overview**
+
+An advanced Power BI dashboard that builds upon the concepts introduced in Project 1, with greater emphasis on analytical flexibility, optimized dashboard design, and sophisticated user interactions.
+
+This project demonstrates how Power BI can be used to create dynamic analytical experiences that allow users to explore data and answer specific business questions.
+
+**Key Power BI Skills Demonstrated:**
+
+- 🎨 Advanced Dashboard Design and Single-Page User Experience
+- ⚙️ Complex Power Query Transformations
+- 🔗 Star Schema Data Modeling Principles
+- 🧮 Advanced DAX Measures, including `CALCULATE` and Context Modifiers
+- 📊 Dynamic Visualizations Driven by Parameters and Slicers
+- 🎛️ Field Parameters and Numeric Parameters
+- 🔍 What-If Analysis and Scenario Exploration
+- 🗺️ Enhanced Geospatial Analytics
+- 🔢 Advanced KPI and Card Visualizations
+- 🔄 Optimized Cross-Filtering and Interactive Reporting
+
+**[📂 Explore Project 2 — Full Documentation](/Data_Jobs_v2/README.md)**
+
+---
+
+## 🛠️ Technical Skills & Tools
+
+| Category | Technologies & Techniques |
+|---|---|
+| Business Intelligence | Microsoft Power BI, Power BI Service |
+| Data Preparation | Power Query, ETL, Data Cleaning |
+| Data Modeling | Star Schema, Table Relationships |
+| Analytical Calculations | DAX, Measures, Filter Context |
+| Data Visualization | KPI Cards, Charts, Maps, Tables |
+| Interactive Analytics | Slicers, Drill-Through, Bookmarks, Field Parameters |
+| Advanced Analytics | What-If Parameters, Dynamic Measures |
+| Dashboard Development | UX Design, Report Navigation, Visual Storytelling |
+
+---
+
+## 📈 My Power BI Learning Progression
+
+These projects demonstrate a practical progression in my Power BI development skills.
+
+**Project 1 — Building the Foundation**
+
+Focused on understanding the Power BI development workflow, preparing datasets, establishing relationships, creating DAX measures, and designing interactive reports.
+
+**Project 2 — Developing Advanced Capabilities**
+
+Expanded into more sophisticated data modeling, dynamic calculations, parameter-driven visualizations, scenario analysis, and improved dashboard usability.
+
+Together, these projects reflect my ability to continuously develop technical skills and apply them to practical business intelligence challenges.
+
+---
+
+## 📁 Repository Structure
+
+```text
+Power-BI-Dashboard-Portfolio/
+│
+├── Data_Jobs_v1/
+│   └── README.md
+│
+├── Data_Jobs_v2/
+│   └── README.md
+│
+├── images/
+│   ├── Project1_Page1.png
+│   └── Project2_Page1.png
+│
+└── README.md
+```
+
+Each project folder contains dedicated documentation covering the project's objectives, development process, Power BI techniques, and dashboard features.
+
+---
+
+## 🎯 About This Portfolio
+
+My goal is to build business intelligence solutions that go beyond displaying numbers to deliver insights that are clear, accessible, and actionable.
+
+This portfolio demonstrates my ability to work across the analytics workflow, from data preparation and modeling to visualization and communicating insights through interactive dashboards.
+
+I will continue expanding this repository as I develop additional Power BI projects and explore more advanced business intelligence techniques.
+
+---
+
+⭐ Thank you for exploring my Power BI portfolio!
 
 ### Author
 
